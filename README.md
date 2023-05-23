@@ -57,7 +57,7 @@
 
 `Для создания политик использовал следующие команды`
 
-	- rabbitmqctl set_policy ha-all "" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
+	- sudo rabbitmqctl set_policy ha-all "" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
 	- sudo rabbitmqctl set_policy HA ".*" '{"ha-mode": "all"}'
 
 ![job4](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job4.png)
