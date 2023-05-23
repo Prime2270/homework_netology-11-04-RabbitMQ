@@ -11,7 +11,7 @@
 `Добавьте management plug-in и зайдите в веб-интерфейс.`
 `Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.`
 
-![job2.2]()
+![job2.2](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job2.2.png)
 
 ### Задание 2 Отправка и получение сообщений
 
@@ -26,11 +26,11 @@
 `Для закрепления материала можете попробовать модифицировать скрипты,`
 `чтобы поменять название очереди и отправляемое сообщение.`
 
-![job2.2]()
+![job2](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job2.png)
 
-![job2.2]()
+![job2.1](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job2.1.png)
 
-![job2.2]()
+![job2.2](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job2.2.png)
 
 ### Задание 3 Подготовка HA кластера
 
@@ -42,10 +42,12 @@
 `В качестве решения домашнего задания приложите скриншоты из веб-интерфейса`
 `с информацией о доступных нодах в кластере и включённой политикой.`
 
-![job3.1]()
+![job3](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.png)
 
-![job3.2]()
+![job3.1](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.1.png)
 
-![job3.3]()
+![job3.2](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.2.png)
 
-![job3.4]()
+![job3.3](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.3.png)
+
+![job3.4](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.4.png)
