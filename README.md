@@ -60,6 +60,6 @@
 	- rabbitmqctl set_policy ha-all "" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
 	- sudo rabbitmqctl set_policy HA ".*" '{"ha-mode": "all"}'
 
-![job4]()
+![job4](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job4.png)
 
-![job4.1]()
+![job4.1](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job4.1.png)
