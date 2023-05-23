@@ -51,3 +51,10 @@
 ![job3.3](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.3.png)
 
 ![job3.4](https://github.com/Prime2270/homework_netology-11-04-RabbitMQ/blob/main/screenshots/job3.4.png)
+
+
+### Доработка
+
+![job4]()
+
+![job4.1]()
